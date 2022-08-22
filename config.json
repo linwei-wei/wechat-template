@@ -1,0 +1,22 @@
+{
+  "mod": "prod",
+  "cron": "*/1 * * * *",
+  "love_start_date": "2022-08-21",
+  "birth_date": "08-23",
+  "wechat_official": {
+    "app_id": "xxxx",
+    "app_secret": "xxx",
+    "open_ids": [
+      "xxxxx"
+    ],
+    "template_id": "xxx"
+  },
+  "yiketianqi": {
+    "appid": "xxx",
+    "appsecret": "xxx",
+    "cityid": "101050101"
+  },
+  "colors": {
+    "qinghua": "#550038"
+  }
+}
